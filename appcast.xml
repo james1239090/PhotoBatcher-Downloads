@@ -3,13 +3,13 @@
     <channel>
         <title>證件照批次轉檔</title>
         <item>
-            <title>1.8.0</title>
-            <pubDate>Mon, 07 Sep 2026 14:25:28 +1000</pubDate>
+            <title>1.9.0</title>
+            <pubDate>Mon, 07 Sep 2026 14:41:41 +1000</pubDate>
             <link>https://github.com/james1239090/PhotoBatcher-Downloads/releases/latest</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/james1239090/PhotoBatcher-Downloads/releases/download/v1.8.0/PhotoBatcher-Apple-Silicon-v1.8.0.zip" length="2794480" type="application/octet-stream" sparkle:edSignature="4N3nIeizoKorvBrtDaeFokTRXIMQrM/OwWXS40aPy6xIxAArSAE5uVjVqnxBtk1KBT0U+qMrsFqmTTuJlbw6Dg=="/>
+            <enclosure url="https://github.com/james1239090/PhotoBatcher-Downloads/releases/download/v1.9.0/PhotoBatcher-Apple-Silicon-v1.9.0.zip" length="2795227" type="application/octet-stream" sparkle:edSignature="/m/g1V0q47M4jO75cG6OxFOO7sTs58KCuWRq+uvT9v0QQb0B47i3MIJTMxeGtxWqWquxGJmnMuDCTYO4QhnAAw=="/>
         </item>
     </channel>
 </rss>
